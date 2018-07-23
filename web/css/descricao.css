@@ -1,0 +1,27 @@
+/*Configurações da página*/
+body{
+background-color:#BCD2EE;
+}
+section{
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+p{
+font-family:"times new roman";
+font-size: 20px;
+text-align:justify;
+}
+
+@media screen and (max-width: 600px){
+    section{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    p{
+        font-size: 14px;
+    }
+}
+/*Configurações da página*/
+

@@ -1,0 +1,15 @@
+section{
+    width: 60%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+tfoot tr td{
+    background-color: #ebebeb;
+    font: bold normal 14px sans-serif;
+}
+@media screen and (max-width: 600px){
+    section{
+        width: 90%;
+    }
+}

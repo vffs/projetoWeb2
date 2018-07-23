@@ -1,0 +1,37 @@
+section{
+    width: 60%;
+    height: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+#erro{
+  width:410px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+}  
+#erro1{
+  width:400px;
+  height:190px;
+  margin-left: auto;
+  margin-right: auto;
+} 
+h2{
+font-family:"times new roman";
+font-size:20px;
+color:#4682B4;
+text-align:center;
+}
+h1{
+margin-bottom:50px;
+font-family:"times new roman";
+font-size:30px;
+color:#4682B4;
+text-align:center;
+
+}
+@media screen and (max-width: 600px){
+    section{
+        width: 90%;
+    }
+}
